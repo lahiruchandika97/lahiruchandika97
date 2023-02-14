@@ -1,7 +1,7 @@
 ### Hey I am Lahiru Chandika :v: 
  
 I'm passionate about software development and learn new technologies.
-I am an final year undergraduate student of Sri Lanka Institute of Information Technology (SLIIT)
+I am an final year undergraduate student of Sri Lanka Institute of Information Technology (SLIIT).
 Currently working as a Software Engineer at Revocare Solutions. 
 
 - 🔭 I’m currently working with JAVA spring boot and React.
