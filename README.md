@@ -1,8 +1,3 @@
-### Hey I am Lahiru Chandika :v: 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
 ### 
 
 <h2 align="left">Hi 👋! My name is Lahiru Chandika.</h2>
@@ -14,7 +9,6 @@ Currently working as a Software Engineer at Revocare Solutions.
 - 🔭 I’m currently working with JAVA spring boot and React.
 - 🌱 I’m currently learning AWS solutions architect.
 - 📫 To reach me ... lahiruchandika1@gmail.com
-
 
 ###
 
@@ -67,27 +61,27 @@ Currently working as a Software Engineer at Revocare Solutions.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiru_chandika_97&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahirucchandika97&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>    
 <div align="center">
     <a href="https://github.com/lahiru_chandika_97">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt=" streak"
             src="https://github-readme-streak-stats.herokuapp.com/?user=lahiru_chandika_97&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
 </div>
 <div align="center">
-  <a href="https://github.com/lahiru_chandika_97"><img alt="vaibhav's Github Stats"
-          src="https://github-readme-stats.vercel.app/api?username=lahiru_chandika_97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/lahirucchandika97"><img alt="lahiru's Github Stats"
+          src="https://github-readme-stats.vercel.app/api?username=lahirucchandika97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
    </a>
 </div>
 
 <!-- deivder -->
 
 <div align="center">
-  <a href="https://github.com/lahiru_chandika_97">
+  <a href="https://github.com/lahirucchandika97">
     <span>
       <img align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lahiru_chandika_97&theme=github_dark" width="100%" />
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lahirucchandika97&theme=github_dark" width="100%" />
     </span>
   </a>
 </div>
