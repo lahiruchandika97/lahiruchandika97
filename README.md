@@ -60,31 +60,3 @@ Currently working as a Software Engineer at Revocare Solutions.
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiruchandika97&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>    
-<div align="center">
-    <a href="https://github.com/lahiruchandika97">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt=" streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=lahiruchandika97&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
-    </a>
-</div>
-<div align="center">
-  <a href="https://github.com/lahiruchandika97"><img alt="lahiru's Github Stats"
-          src="https://github-readme-stats.vercel.app/api?username=lahiruchandika97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-   </a>
-</div>
-
-<!-- deivder -->
-
-<div align="center">
-  <a href="https://github.com/lahiruchandika97">
-    <span>
-      <img align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lahiruchandika97&theme=github_dark" width="100%" />
-    </span>
-  </a>
-</div>
-
-###
-
