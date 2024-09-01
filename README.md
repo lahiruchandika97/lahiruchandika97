@@ -1,9 +1,9 @@
 ### 
 
-<h2 align="left">Hi 👋! My name is Lahiru Chandika.</h2>
+<h2 align="left">Hi 👋! I'm Lahiru Chandika.</h2>
  
 I'm passionate about software development and learn new technologies.
-I am an undergraduate student of Sri Lanka Institute of Information Technology (SLIIT).
+I am a graduate of Sri Lanka Institute of Information Technology (SLIIT).
 Currently working as a Software Engineer at Revocare Solutions. 
 
 - 🔭 I’m currently working with JAVA Spring Boot, React, and AWS.
